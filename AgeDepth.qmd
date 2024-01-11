@@ -1,0 +1,137 @@
+---
+title: "Age Depth Model"
+author: "Gregory, Alex"
+format: pdf
+editor: visual
+---
+
+```{r}
+library(dplyr)
+library(Bchron)
+```
+
+
+```{r include=FALSE, warning=FALSE}
+lithics <- read.csv("Lithics.csv", header=T)
+
+df <- lithics |>
+  dplyr::select(Site, Layer, Date_BP, Date_Error, Lithic_Count, Raw_Material) |>
+  dplyr::filter(Date_BP > 2000 & Date_BP < 4500 & (Site == "Steenbokfontein" |
+                                                     Site == "Likoaeng")) |>
+  dplyr::mutate(bins = ifelse(Date_BP < 3000, "3000-2000", "4500-3000"))
+
+```
+
+```{r}
+# Steenbokfontein distinct dates per layer
+# Ensures only one date per layer is used
+st.ages <- df |> group_by(Date_BP) |>
+  filter(Site == "Steenbokfontein") |>
+  dplyr::select(Date_BP, Date_Error) |>
+  distinct()
+
+# Likoaeng distinct dates per layer
+# Ensures only one date per layer is used
+li.ages <- df |> group_by(Date_BP) |>
+  filter(Site == "Likoaeng") |>
+  dplyr::select(Date_BP, Date_Error, Layer) |>
+  distinct(.keep_all = T)
+
+
+# Likoaeng depth by volume
+# Divide Volume (m^3) by area (m^2) in Mitchell, 2009
+lik.depth <- tibble(
+  Layer = c("I", "II", "III", "IV", "V", "VI", "VII/IX", "X",
+            "XI", "XII", "XIII", "XIV", "XV", "XVI", "XVII", "XVIII"),
+  Max_area = c(30, 30, 26, 26, 26, 26, 20.5, 
+               6, 6, 4, 4, 3.5, 3.5, 3.5, 3.5, 1),
+  Volume = c(5.5, NA, 6.2, .4, 3.4, 4.3, 5.1, .7, 1, .5,
+             3.3, .4, .4, .5, .3, 1),
+  Depth = Volume/Max_area
+)
+
+
+# Steenbokfontein Depth
+# Using Jerardino and Yates (1995); Jerardino 
+# and Swanepoel (1997) do not have information on depths/volumes
+st.depth <- tibble(
+  Layer = c("1", "2", "3a/b", "4a", "4b"),
+  Max_area = c(4, 4, 5, 2, 2),
+  Volume = c(0.69, 0.55, 1.7, 0.4, 0.6),
+  Depth = Volume/Max_area
+)
+
+################
+
+# Steenbokfontein
+# Add the depth iteratively using st.depth$Depth
+st.positions = c(0.172, 0.172+0.138, 0.172+0.138+.34,
+              0.172+0.138+.34+.2, 0.172+0.138+.34+.2+.3)
+
+# Add depth iteratively using li.depth$Depth
+li.positions <- c(0.249, 0.249+0.117, 0.249+0.117+0.167, 0.249+0.117+0.167+0.125,
+                  0.249+0.117+0.167+0.125+0.825, 
+                  0.249+0.117+0.167+0.125+0.825+0.114,
+                  0.249+0.117+0.167+0.125+0.825+0.114+0.114,
+                  0.249+0.117+0.167+0.125+0.825+0.114+0.114+0.143,
+                  0.249+0.117+0.167+0.125+0.825+0.114+0.114+0.143+0.0857)
+
+# subset to Likoaenglayers with dates
+li.positions <- li.positions[c(1, 3, 5, 7, 9)]
+
+
+####################
+
+
+
+
+# Steenbokfontein test calibration model using normal distributions
+st.chron <-
+  BchronCalibrate(ages = st.ages[[1]][-3],
+                  ageSds = st.ages[[2]][-3],
+                  id = c("1", "2", "3a/b", "4a", "4b"),
+                  calCurves = c(rep('normal',6)))
+
+#plot(st.chron)
+
+# Likoaeng test calibration model using normal distributions
+li.chron <-
+  BchronCalibrate(ages = li.ages[[1]],
+                  ageSds = li.ages[[2]],
+                  id = c("VII/IX", "XI", "XIII", "XV", "XVII"),
+                  calCurves = c(rep("normal",5)))
+
+#plot(li.chron)
+```
+
+```{r}
+# Use Bchron to generate age depth models
+
+
+# Need to remove the date for 3a when using 1995 data
+# This mergers layer 3a and 3b into one layer
+st.mod1 <- Bchronology(
+  ages = st.ages[[1]][-3],
+  ageSds = st.ages[[2]][-3],
+  calCurves = c(rep("normal", 5)),
+  id = c("1", "2", "3a/b", "4a", "4b"),
+  positions = st.positions*100
+)
+
+li.mod1 <- Bchronology(
+  ages = li.ages[[1]],
+  ageSds = li.ages[[2]],
+  calCurves = c(rep("normal", 5)),
+  id = c("VII/IX", "XI", "XIII", "XV", "XVII"),
+  positions = li.positions*100
+)
+```
+
+```{r}
+plot(st.mod1)
+```
+
+```{r}
+plot(li.mod1)
+```
+

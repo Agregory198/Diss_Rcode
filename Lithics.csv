@@ -1,0 +1,331 @@
+Site,Layer,Date_BP,Date_Error,Lithic_Count,Raw_Material,Charcoal_d,Lithic_d,Mammal_d,Tortoise_d,Fish_d,Shell_d
+Pancho's Kitchen,1,570,20,151,Quartz,15.6,4,23.7,31.7,0,8.4
+Pancho's Kitchen,2,880,50,117,Quartz,10.3,4.7,4.8,50.8,0.1,5.2
+Pancho's Kitchen,3,2640,60,227,Quartz,8,6.8,2.1,8.3,0.2,7.2
+Pancho's Kitchen,4,2940,20,296,Quartz,24.9,6,8,11.2,3.5,6.7
+Pancho's Kitchen,5,NA,NA,180,Quartz,19.2,6.6,4.3,16.5,0.3,5.3
+Pancho's Kitchen,6,3060,60,127,Quartz,15.9,5.6,9.3,49.5,0.6,7.7
+Pancho's Kitchen,7,3570,60,578,Quartz,7.6,11.9,9.1,17.2,0.2,4.7
+Pancho's Kitchen,1,570,20,4,Quartzite,15.6,4,23.7,31.7,0,8.4
+Pancho's Kitchen,2,880,50,1,Quartzite,10.3,4.7,4.8,50.8,0.1,5.2
+Pancho's Kitchen,3,2640,60,5,Quartzite,8,6.8,2.1,8.3,0.2,7.2
+Pancho's Kitchen,4,2940,20,19,Quartzite,24.9,6,8,11.2,3.5,6.7
+Pancho's Kitchen,5,NA,NA,15,Quartzite,19.2,6.6,4.3,16.5,0.3,5.3
+Pancho's Kitchen,6,3060,60,40,Quartzite,15.9,5.6,9.3,49.5,0.6,7.7
+Pancho's Kitchen,7,3570,60,23,Quartzite,7.6,11.9,9.1,17.2,0.2,4.7
+Pancho's Kitchen,1,570,20,0,CCS,15.6,4,23.7,31.7,0,8.4
+Pancho's Kitchen,2,880,50,1,CCS,10.3,4.7,4.8,50.8,0.1,5.2
+Pancho's Kitchen,3,2640,60,0,CCS,8,6.8,2.1,8.3,0.2,7.2
+Pancho's Kitchen,4,2940,20,2,CCS,24.9,6,8,11.2,3.5,6.7
+Pancho's Kitchen,5,NA,NA,5,CCS,19.2,6.6,4.3,16.5,0.3,5.3
+Pancho's Kitchen,6,3060,60,5,CCS,15.9,5.6,9.3,49.5,0.6,7.7
+Pancho's Kitchen,7,3570,60,3,CCS,7.6,11.9,9.1,17.2,0.2,4.7
+Pancho's Kitchen,1,570,20,4,Silcrete,15.6,4,23.7,31.7,0,8.4
+Pancho's Kitchen,2,880,50,0,Silcrete,10.3,4.7,4.8,50.8,0.1,5.2
+Pancho's Kitchen,3,2640,60,10,Silcrete,8,6.8,2.1,8.3,0.2,7.2
+Pancho's Kitchen,4,2940,20,20,Silcrete,24.9,6,8,11.2,3.5,6.7
+Pancho's Kitchen,5,NA,NA,2,Silcrete,19.2,6.6,4.3,16.5,0.3,5.3
+Pancho's Kitchen,6,3060,60,2,Silcrete,15.9,5.6,9.3,49.5,0.6,7.7
+Pancho's Kitchen,7,3570,60,10,Silcrete,7.6,11.9,9.1,17.2,0.2,4.7
+Pancho's Kitchen,1,570,20,0,Other,15.6,4,23.7,31.7,0,8.4
+Pancho's Kitchen,2,880,50,0,Other,10.3,4.7,4.8,50.8,0.1,5.2
+Pancho's Kitchen,3,2640,60,1,Other,8,6.8,2.1,8.3,0.2,7.2
+Pancho's Kitchen,4,2940,20,2,Other,24.9,6,8,11.2,3.5,6.7
+Pancho's Kitchen,5,NA,NA,1,Other,19.2,6.6,4.3,16.5,0.3,5.3
+Pancho's Kitchen,6,3060,60,1,Other,15.9,5.6,9.3,49.5,0.6,7.7
+Pancho's Kitchen,7,3570,60,4,Other,7.6,11.9,9.1,17.2,0.2,4.7
+Tortoise Cave,1a,760,50,790,Quartz,,,,,,
+Tortoise Cave,1b,NA,NA,NA,Quartz,,,,,,
+Tortoise Cave,2a,1660,45,NA,Quartz,,,,,,
+Tortoise Cave,2b,1580,50,NA,Quartz,,,,,,
+Tortoise Cave,3a,1620,50,NA,Quartz,,,,,,
+Tortoise Cave,3b,1800,60,NA,Quartz,,,,,,
+Tortoise Cave,5,3560,60,455,Quartz,,,,,,
+Tortoise Cave,6,3520,60,779,Quartz,,,,,,
+Tortoise Cave,7,NA,NA,615,Quartz,,,,,,
+Tortoise Cave,8,4020,60,522,Quartz,,,,,,
+Tortoise Cave,10,4190,60,1111,Quartz,,,,,,
+Tortoise Cave,11,NA,NA,476,Quartz,,,,,,
+Tortoise Cave,13a,4330,50,826,Quartz,,,,,,
+Tortoise Cave,13b,7310,80,591,Quartz,,,,,,
+Tortoise Cave,14,7700,70,635,Quartz,,,,,,
+Tortoise Cave,1a,760,50,46,Quartzite,,,,,,
+Tortoise Cave,1b,NA,NA,NA,Quartzite,,,,,,
+Tortoise Cave,2a,1660,45,NA,Quartzite,,,,,,
+Tortoise Cave,2b,1580,50,NA,Quartzite,,,,,,
+Tortoise Cave,3a,1620,50,NA,Quartzite,,,,,,
+Tortoise Cave,3b,1800,60,NA,Quartzite,,,,,,
+Tortoise Cave,5,3560,60,9,Quartzite,,,,,,
+Tortoise Cave,6,3520,60,12,Quartzite,,,,,,
+Tortoise Cave,7,NA,NA,12,Quartzite,,,,,,
+Tortoise Cave,8,4020,60,22,Quartzite,,,,,,
+Tortoise Cave,10,4190,60,57,Quartzite,,,,,,
+Tortoise Cave,11,NA,NA,10,Quartzite,,,,,,
+Tortoise Cave,13a,4330,50,42,Quartzite,,,,,,
+Tortoise Cave,13b,7310,80,39,Quartzite,,,,,,
+Tortoise Cave,14,7700,70,38,Quartzite,,,,,,
+Tortoise Cave,1a,760,50,114,Silcrete,,,,,,
+Tortoise Cave,1b,NA,NA,NA,Silcrete,,,,,,
+Tortoise Cave,2a,1660,45,NA,Silcrete,,,,,,
+Tortoise Cave,2b,1580,50,NA,Silcrete,,,,,,
+Tortoise Cave,3a,1620,50,NA,Silcrete,,,,,,
+Tortoise Cave,3b,1800,60,NA,Silcrete,,,,,,
+Tortoise Cave,5,3560,60,90,Silcrete,,,,,,
+Tortoise Cave,6,3520,60,118,Silcrete,,,,,,
+Tortoise Cave,7,NA,NA,270,Silcrete,,,,,,
+Tortoise Cave,8,4020,60,125,Silcrete,,,,,,
+Tortoise Cave,10,4190,60,728,Silcrete,,,,,,
+Tortoise Cave,11,NA,NA,206,Silcrete,,,,,,
+Tortoise Cave,13a,4330,50,461,Silcrete,,,,,,
+Tortoise Cave,13b,7310,80,151,Silcrete,,,,,,
+Tortoise Cave,14,7700,70,141,Silcrete,,,,,,
+Tortoise Cave,1a,760,50,14,Hornfels,,,,,,
+Tortoise Cave,1b,NA,NA,NA,Hornfels,,,,,,
+Tortoise Cave,2a,1660,45,NA,Hornfels,,,,,,
+Tortoise Cave,2b,1580,50,NA,Hornfels,,,,,,
+Tortoise Cave,3a,1620,50,NA,Hornfels,,,,,,
+Tortoise Cave,3b,1800,60,NA,Hornfels,,,,,,
+Tortoise Cave,5,3560,60,2,Hornfels,,,,,,
+Tortoise Cave,6,3520,60,7,Hornfels,,,,,,
+Tortoise Cave,7,NA,NA,3,Hornfels,,,,,,
+Tortoise Cave,8,4020,60,5,Hornfels,,,,,,
+Tortoise Cave,10,4190,60,7,Hornfels,,,,,,
+Tortoise Cave,11,NA,NA,5,Hornfels,,,,,,
+Tortoise Cave,13a,4330,50,5,Hornfels,,,,,,
+Tortoise Cave,13b,7310,80,3,Hornfels,,,,,,
+Tortoise Cave,14,7700,70,8,Hornfels,,,,,,
+Tortoise Cave,1a,760,50,42,CCS,,,,,,
+Tortoise Cave,1b,NA,NA,NA,CCS,,,,,,
+Tortoise Cave,2a,1660,45,NA,CCS,,,,,,
+Tortoise Cave,2b,1580,50,NA,CCS,,,,,,
+Tortoise Cave,3a,1620,50,NA,CCS,,,,,,
+Tortoise Cave,3b,1800,60,NA,CCS,,,,,,
+Tortoise Cave,5,3560,60,12,CCS,,,,,,
+Tortoise Cave,6,3520,60,14,CCS,,,,,,
+Tortoise Cave,7,NA,NA,16,CCS,,,,,,
+Tortoise Cave,8,4020,60,11,CCS,,,,,,
+Tortoise Cave,10,4190,60,17,CCS,,,,,,
+Tortoise Cave,11,NA,NA,12,CCS,,,,,,
+Tortoise Cave,13a,4330,50,6,CCS,,,,,,
+Tortoise Cave,13b,7310,80,1,CCS,,,,,,
+Tortoise Cave,14,7700,70,5,CCS,,,,,,
+Tortoise Cave,1a,760,50,4,Other,,,,,,
+Tortoise Cave,1b,NA,NA,NA,Other,,,,,,
+Tortoise Cave,2a,1660,45,NA,Other,,,,,,
+Tortoise Cave,2b,1580,50,NA,Other,,,,,,
+Tortoise Cave,3a,1620,50,NA,Other,,,,,,
+Tortoise Cave,3b,1800,60,NA,Other,,,,,,
+Tortoise Cave,5,3560,60,3,Other,,,,,,
+Tortoise Cave,6,3520,60,6,Other,,,,,,
+Tortoise Cave,7,NA,NA,5,Other,,,,,,
+Tortoise Cave,8,4020,60,4,Other,,,,,,
+Tortoise Cave,10,4190,60,5,Other,,,,,,
+Tortoise Cave,11,NA,NA,0,Other,,,,,,
+Tortoise Cave,13a,4330,50,3,Other,,,,,,
+Tortoise Cave,13b,7310,80,1,Other,,,,,,
+Tortoise Cave,14,7700,70,2,Other,,,,,,
+Steenbokfontein,1,2200,60,300,Quartz,96.9,8.8,20.3,79.9,NA,96.9
+Steenbokfontein,2,2360,45,265,Quartz,88.1,11.7,9.4,42.4,NA,88.1
+Steenbokfontein,3a,2510,50,657,Quartz,76.8,16,12.3,74.4,NA,76.8
+Steenbokfontein,3b,2690,60,1318,Quartz,NA,NA,NA,NA,NA,NA
+Steenbokfontein,4a,3635,30,2442,Quartz,24.4,30.7,69.2,105.6,NA,24.4
+Steenbokfontein,4b,3990,60,2370,Quartz,97.1,18.7,44.6,41.3,NA,97.1
+Steenbokfontein,5,7950,80,1602,Quartz,NA,NA,NA,NA,NA,NA
+Steenbokfontein,1,2200,60,101,Quartzite,96.9,8.8,20.3,79.9,NA,96.9
+Steenbokfontein,2,2360,45,157,Quartzite,88.1,11.7,9.4,42.4,NA,88.1
+Steenbokfontein,3a,2510,50,102,Quartzite,76.8,16,12.3,74.4,NA,76.8
+Steenbokfontein,3b,2690,60,364,Quartzite,NA,NA,NA,NA,NA,NA
+Steenbokfontein,4a,3635,30,166,Quartzite,24.4,30.7,69.2,105.6,NA,24.4
+Steenbokfontein,4b,3990,60,249,Quartzite,97.1,18.7,44.6,41.3,NA,97.1
+Steenbokfontein,5,7950,80,241,Quartzite,NA,NA,NA,NA,NA,NA
+Steenbokfontein,1,2200,60,23,Silcrete,96.9,8.8,20.3,79.9,NA,96.9
+Steenbokfontein,2,2360,45,30,Silcrete,88.1,11.7,9.4,42.4,NA,88.1
+Steenbokfontein,3a,2510,50,30,Silcrete,76.8,16,12.3,74.4,NA,76.8
+Steenbokfontein,3b,2690,60,106,Silcrete,NA,NA,NA,NA,NA,NA
+Steenbokfontein,4a,3635,30,40,Silcrete,24.4,30.7,69.2,105.6,NA,24.4
+Steenbokfontein,4b,3990,60,174,Silcrete,97.1,18.7,44.6,41.3,NA,97.1
+Steenbokfontein,5,7950,80,211,Silcrete,NA,NA,NA,NA,NA,NA
+Steenbokfontein,1,2200,60,1,Hornfels,96.9,8.8,20.3,79.9,NA,96.9
+Steenbokfontein,2,2360,45,1,Hornfels,88.1,11.7,9.4,42.4,NA,88.1
+Steenbokfontein,3a,2510,50,3,Hornfels,76.8,16,12.3,74.4,NA,76.8
+Steenbokfontein,3b,2690,60,5,Hornfels,NA,NA,NA,NA,NA,NA
+Steenbokfontein,4a,3635,30,5,Hornfels,24.4,30.7,69.2,105.6,NA,24.4
+Steenbokfontein,4b,3990,60,10,Hornfels,97.1,18.7,44.6,41.3,NA,97.1
+Steenbokfontein,5,7950,80,15,Hornfels,NA,NA,NA,NA,NA,NA
+Steenbokfontein,1,2200,60,11,CCS,96.9,8.8,20.3,79.9,NA,96.9
+Steenbokfontein,2,2360,45,6,CCS,88.1,11.7,9.4,42.4,NA,88.1
+Steenbokfontein,3a,2510,50,14,CCS,76.8,16,12.3,74.4,NA,76.8
+Steenbokfontein,3b,2690,60,36,CCS,NA,NA,NA,NA,NA,NA
+Steenbokfontein,4a,3635,30,30,CCS,24.4,30.7,69.2,105.6,NA,24.4
+Steenbokfontein,4b,3990,60,124,CCS,97.1,18.7,44.6,41.3,NA,97.1
+Steenbokfontein,5,7950,80,68,CCS,NA,NA,NA,NA,NA,NA
+Steenbokfontein,1,2200,60,6,Other,96.9,8.8,20.3,79.9,NA,96.9
+Steenbokfontein,2,2360,45,7,Other,88.1,11.7,9.4,42.4,NA,88.1
+Steenbokfontein,3a,2510,50,13,Other,76.8,16,12.3,74.4,NA,76.8
+Steenbokfontein,3b,2690,60,32,Other,NA,NA,NA,NA,NA,NA
+Steenbokfontein,4a,3635,30,20,Other,24.4,30.7,69.2,105.6,NA,24.4
+Steenbokfontein,4b,3990,60,23,Other,97.1,18.7,44.6,41.3,NA,97.1
+Steenbokfontein,5,7950,80,32,Other,NA,NA,NA,NA,NA,NA
+Grootrif D,1,690,40,248,Quartz,435.8,84.6,989,6867.3,2.6,279.5
+Grootrif D,2,NA,NA,1,Quartz,488.5,2.5,123.4,1435.1,2.5,NA
+Grootrif D,3,2380,60,12,Quartz,368.8,19,8.3,54.7,0,234
+Grootrif D,4,3125,20,4,Quartz,95.5,44.6,186.6,316.1,1.8,NA
+Grootrif D,1,690,40,27,Quartzite,435.8,84.6,989,6867.3,2.6,279.5
+Grootrif D,2,NA,NA,0,Quartzite,488.5,2.5,123.4,1435.1,2.5,NA
+Grootrif D,3,2380,60,1,Quartzite,368.8,19,8.3,54.7,0,234
+Grootrif D,4,3125,20,1,Quartzite,95.5,44.6,186.6,316.1,1.8,NA
+Grootrif D,1,690,40,2,Other,435.8,84.6,989,6867.3,2.6,279.5
+Grootrif D,2,NA,NA,0,Other,488.5,2.5,123.4,1435.1,2.5,NA
+Grootrif D,3,2380,60,0,Other,368.8,19,8.3,54.7,0,234
+Grootrif D,4,3125,20,0,Other,95.5,44.6,186.6,316.1,1.8,NA
+Spring Cave,2,460,40,99,Quartz,NA,304.9,2.4,4.9,34.1,77.4
+Spring Cave,3,840,50,138,Quartz,NA,566.7,80,16.7,60,195.7
+Spring Cave,4,1150,50,3,Quartz,NA,42.9,52.4,4.8,33.3,97.5
+Spring Cave,5,2970,60,51,Quartz,NA,277.3,4.5,4.5,109.1,36.4
+Spring Cave,6,3510,60,239,Quartz,NA,674.4,0,2.3,14,55.9
+Spring Cave,2,460,40,12,Quartzite,NA,304.9,2.4,4.9,34.1,77.4
+Spring Cave,3,840,50,12,Quartzite,NA,566.7,80,16.7,60,195.7
+Spring Cave,4,1150,50,3,Quartzite,NA,42.9,52.4,4.8,33.3,97.5
+Spring Cave,5,2970,60,8,Quartzite,NA,277.3,4.5,4.5,109.1,36.4
+Spring Cave,6,3510,60,19,Quartzite,NA,674.4,0,2.3,14,55.9
+Spring Cave,2,460,40,2,Silcrete,NA,304.9,2.4,4.9,34.1,77.4
+Spring Cave,3,840,50,0,Silcrete,NA,566.7,80,16.7,60,195.7
+Spring Cave,4,1150,50,0,Silcrete,NA,42.9,52.4,4.8,33.3,97.5
+Spring Cave,5,2970,60,2,Silcrete,NA,277.3,4.5,4.5,109.1,36.4
+Spring Cave,6,3510,60,7,Silcrete,NA,674.4,0,2.3,14,55.9
+Spring Cave,2,460,40,0,CCS,NA,304.9,2.4,4.9,34.1,77.4
+Spring Cave,3,840,50,0,CCS,NA,566.7,80,16.7,60,195.7
+Spring Cave,4,1150,50,0,CCS,NA,42.9,52.4,4.8,33.3,97.5
+Spring Cave,5,2970,60,0,CCS,NA,277.3,4.5,4.5,109.1,36.4
+Spring Cave,6,3510,60,12,CCS,NA,674.4,0,2.3,14,55.9
+Malkoppan,Middle Mussel,2460,50,0,Quartz,149.5,3,,,,
+Malkoppan,Sandy Parting,NA,,1,Quartz,104,4.3,,,,
+Malkoppan,Pale Grey Limpet Rich,4230,60,15,Quartz,8.5,45.5,,,,
+Likoaeng,I,1290,30,488,Opaline,,126.4363636,,,,
+Likoaeng,II,NA,NA,NA,Opaline,,NA,,,,
+Likoaeng,III,1830,15,6557,Opaline,,1221.16129,,,,
+Likoaeng,IV,NA,NA,517,Opaline,,1498.75,,,,
+Likoaeng,V,2000,70,2780,Opaline,,1026.617647,,,,
+Likoaeng,VI,NA,NA,921,Opaline,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,6934,Opaline,,1598.019608,,,,
+Likoaeng,X,NA,NA,101,Opaline,,162,,,,
+Likoaeng,XI,2390,60,4468,Opaline,,5934.725,,,,
+Likoaeng,XII,NA,NA,464,Opaline,,1412.4,,,,
+Likoaeng,XIII,2860,45,9854,Opaline,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,1088,Opaline,,4049.5,,,,
+Likoaeng,XV,3555,45,564,Opaline,,2997.5,,,,
+Likoaeng,XVI,NA,NA,214,Opaline,,599.25,,,,
+Likoaeng,XVII,3110,50,145,Opaline,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Opaline,,NA,,,,
+Likoaeng,I,1290,30,141,Hornfels,,126.4363636,,,,
+Likoaeng,II,NA,NA,,Hornfels,,NA,,,,
+Likoaeng,III,1830,15,563,Hornfels,,1221.16129,,,,
+Likoaeng,IV,NA,NA,66,Hornfels,,1498.75,,,,
+Likoaeng,V,2000,70,580,Hornfels,,1026.617647,,,,
+Likoaeng,VI,NA,NA,186,Hornfels,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,929,Hornfels,,1598.019608,,,,
+Likoaeng,X,NA,NA,8,Hornfels,,162,,,,
+Likoaeng,XI,2390,60,943,Hornfels,,5934.725,,,,
+Likoaeng,XII,NA,NA,118,Hornfels,,1412.4,,,,
+Likoaeng,XIII,2860,45,2173,Hornfels,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,168,Hornfels,,4049.5,,,,
+Likoaeng,XV,3555,45,227,Hornfels,,2997.5,,,,
+Likoaeng,XVI,NA,NA,14,Hornfels,,599.25,,,,
+Likoaeng,XVII,3110,50,1,Hornfels,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Hornfels,,NA,,,,
+Likoaeng,I,1290,30,11,Tuff,,126.4363636,,,,
+Likoaeng,II,NA,NA,,Tuff,,NA,,,,
+Likoaeng,III,1830,15,34,Tuff,,1221.16129,,,,
+Likoaeng,IV,NA,NA,1,Tuff,,1498.75,,,,
+Likoaeng,V,2000,70,15,Tuff,,1026.617647,,,,
+Likoaeng,VI,NA,NA,23,Tuff,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,153,Tuff,,1598.019608,,,,
+Likoaeng,X,NA,NA,2,Tuff,,162,,,,
+Likoaeng,XI,2390,60,146,Tuff,,5934.725,,,,
+Likoaeng,XII,NA,NA,29,Tuff,,1412.4,,,,
+Likoaeng,XIII,2860,45,996,Tuff,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,213,Tuff,,4049.5,,,,
+Likoaeng,XV,3555,45,188,Tuff,,2997.5,,,,
+Likoaeng,XVI,NA,NA,46,Tuff,,599.25,,,,
+Likoaeng,XVII,3110,50,17,Tuff,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Tuff,,NA,,,,
+Likoaeng,I,1290,30,3,Quartzite,,126.4363636,,,,
+Likoaeng,II,NA,NA,,Quartzite,,NA,,,,
+Likoaeng,III,1830,15,8,Quartzite,,1221.16129,,,,
+Likoaeng,IV,NA,NA,0,Quartzite,,1498.75,,,,
+Likoaeng,V,2000,70,1,Quartzite,,1026.617647,,,,
+Likoaeng,VI,NA,NA,0,Quartzite,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,23,Quartzite,,1598.019608,,,,
+Likoaeng,X,NA,NA,2,Quartzite,,162,,,,
+Likoaeng,XI,2390,60,279,Quartzite,,5934.725,,,,
+Likoaeng,XII,NA,NA,87,Quartzite,,1412.4,,,,
+Likoaeng,XIII,2860,45,951,Quartzite,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,98,Quartzite,,4049.5,,,,
+Likoaeng,XV,3555,45,176,Quartzite,,2997.5,,,,
+Likoaeng,XVI,NA,NA,23,Quartzite,,599.25,,,,
+Likoaeng,XVII,3110,50,24,Quartzite,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Quartzite,,NA,,,,
+Likoaeng,I,1290,30,14,Siltstone,,126.4363636,,,,
+Likoaeng,II,NA,NA,,Siltstone,,NA,,,,
+Likoaeng,III,1830,15,125,Siltstone,,1221.16129,,,,
+Likoaeng,IV,NA,NA,8,Siltstone,,1498.75,,,,
+Likoaeng,V,2000,70,37,Siltstone,,1026.617647,,,,
+Likoaeng,VI,NA,NA,57,Siltstone,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,36,Siltstone,,1598.019608,,,,
+Likoaeng,X,NA,NA,0,Siltstone,,162,,,,
+Likoaeng,XI,2390,60,45,Siltstone,,5934.725,,,,
+Likoaeng,XII,NA,NA,3,Siltstone,,1412.4,,,,
+Likoaeng,XIII,2860,45,179,Siltstone,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,44,Siltstone,,4049.5,,,,
+Likoaeng,XV,3555,45,40,Siltstone,,2997.5,,,,
+Likoaeng,XVI,NA,NA,4,Siltstone,,599.25,,,,
+Likoaeng,XVII,3110,50,6,Siltstone,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Siltstone,,NA,,,,
+Likoaeng,I,1290,30,8,Basalt,,126.4363636,,,,
+Likoaeng,II,NA,NA,,Basalt,,NA,,,,
+Likoaeng,III,1830,15,49,Basalt,,1221.16129,,,,
+Likoaeng,IV,NA,NA,4,Basalt,,1498.75,,,,
+Likoaeng,V,2000,70,18,Basalt,,1026.617647,,,,
+Likoaeng,VI,NA,NA,14,Basalt,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,29,Basalt,,1598.019608,,,,
+Likoaeng,X,NA,NA,1,Basalt,,162,,,,
+Likoaeng,XI,2390,60,39,Basalt,,5934.725,,,,
+Likoaeng,XII,NA,NA,4,Basalt,,1412.4,,,,
+Likoaeng,XIII,2860,45,69,Basalt,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,8,Basalt,,4049.5,,,,
+Likoaeng,XV,3555,45,4,Basalt,,2997.5,,,,
+Likoaeng,XVI,NA,NA,0,Basalt,,599.25,,,,
+Likoaeng,XVII,3110,50,0,Basalt,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Basalt,,NA,,,,
+Likoaeng,I,1290,30,1,Quartz,,126.4363636,,,,
+Likoaeng,II,NA,NA,,Quartz,,NA,,,,
+Likoaeng,III,1830,15,154,Quartz,,1221.16129,,,,
+Likoaeng,IV,NA,NA,1,Quartz,,1498.75,,,,
+Likoaeng,V,2000,70,0,Quartz,,1026.617647,,,,
+Likoaeng,VI,NA,NA,0,Quartz,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,11,Quartz,,1598.019608,,,,
+Likoaeng,X,NA,NA,0,Quartz,,162,,,,
+Likoaeng,XI,2390,60,1,Quartz,,5934.725,,,,
+Likoaeng,XII,NA,NA,0,Quartz,,1412.4,,,,
+Likoaeng,XIII,2860,45,2,Quartz,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,0,Quartz,,4049.5,,,,
+Likoaeng,XV,3555,45,0,Quartz,,2997.5,,,,
+Likoaeng,XVI,NA,NA,0,Quartz,,599.25,,,,
+Likoaeng,XVII,3110,50,0,Quartz,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Quartz,,NA,,,,
+Likoaeng,I,1290,30,17,Other,,126.4363636,,,,
+Likoaeng,II,NA,NA,,Other,,NA,,,,
+Likoaeng,III,1830,15,86,Other,,1221.16129,,,,
+Likoaeng,IV,NA,NA,3,Other,,1498.75,,,,
+Likoaeng,V,2000,70,64,Other,,1026.617647,,,,
+Likoaeng,VI,NA,NA,12,Other,,282.6043256,,,,
+Likoaeng,VII/IX,2060,45,25,Other,,1598.019608,,,,
+Likoaeng,X,NA,NA,0,Other,,162,,,,
+Likoaeng,XI,2390,60,16,Other,,5934.725,,,,
+Likoaeng,XII,NA,NA,1,Other,,1412.4,,,,
+Likoaeng,XIII,2860,45,7,Other,,4313.703545,,,,
+Likoaeng,XIV,NA,NA,0,Other,,4049.5,,,,
+Likoaeng,XV,3555,45,0,Other,,2997.5,,,,
+Likoaeng,XVI,NA,NA,0,Other,,599.25,,,,
+Likoaeng,XVII,3110,50,0,Other,,641.655,,,,
+Likoaeng,XVIII,NA,NA,,Other,,NA,,,,
